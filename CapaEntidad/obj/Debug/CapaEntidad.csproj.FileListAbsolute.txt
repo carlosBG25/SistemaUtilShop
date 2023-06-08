@@ -1,0 +1,58 @@
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\FPR-Grupo1\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Debug\CapaEntidad.pdb

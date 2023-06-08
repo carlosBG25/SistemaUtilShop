@@ -1,0 +1,132 @@
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\FPR-Grupo1\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaNegocios\obj\Debug\CapaNegocios.pdb

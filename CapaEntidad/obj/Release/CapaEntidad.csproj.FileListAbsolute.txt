@@ -1,0 +1,12 @@
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaEntidad\obj\Release\CapaEntidad.pdb

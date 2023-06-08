@@ -1,0 +1,460 @@
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+D:\FPR-Grupo1\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\scDELOSI\E4 - Reyes Huanuco\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\uset\Desktop\scDELOSI_31_12_22\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_01_01_23\scDELOSI_01_01_23\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Registro_Horario.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Registro_Horario.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_familiar.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_Horario.resources
+C:\Users\REYES\OneDrive\Escritorio\PROYECTO FPR\EMPRESA\Proyecto Delosi\scDELOSI_MODIFICAR\scDELOSI_MODIFICAR\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_renovacion_contrato.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Registro_Horario.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_familiar.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_Horario.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_renovacion_contrato.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\allan\OneDrive\Escritorio\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_EstadoR.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Pais.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Ptrabajo.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_Registro_Horario.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_contrato.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_familiar.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_Horario.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_renovacion_contrato.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_contrato.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_desempenio.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scDELOSI\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_usuario.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_proveedor.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\blasc\Downloads\E5 - Blas Giron\E5 - Blas Giron\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_producto.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_producto.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_proveedor.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_usuario.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_producto.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_proveedor.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_usuario.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\NO_BORRAR_HAY_INFORMACION_DEL_PERFIL_DE USUARIO\Desktop\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_boleta.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.frm_producto.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.frm_proveedor.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.frm_tipo_usuario.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.frm_trabajador.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.frm_ventas.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.from_Login.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Alumno\Downloads\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOPfinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe.config
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_producto.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_proveedor.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipo_usuario.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_trabajador.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_ventas.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_Login.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.exe
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.pdb
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\uset\Desktop\PROYECTO_SEMINARIO\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe.config
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_producto.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_proveedor.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipo_usuario.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_trabajador.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_ventas.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_Login.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO(Jerson)\PROYECTO_SEMINARIO\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe.config
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_producto.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_proveedor.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipo_usuario.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_trabajador.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_ventas.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_Login.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP_FINAL\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_bienvenida.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_categoria.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_MenuAdmin.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_estado.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipoDocumento.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_producto.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_proveedor.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_tipo_usuario.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_trabajador.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_ventas.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.form_Login.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe.config
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\UtilShop.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.exe
+C:\Users\blasc\OneDrive\Escritorio\scUTILSHOP\scUTILSHOP\CapaPresentacion\obj\Debug\UtilShop.pdb

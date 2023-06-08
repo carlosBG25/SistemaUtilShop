@@ -1,0 +1,124 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CapaNegocios;
+using CapaEntidad;
+
+namespace CapaPresentacions
+{
+    public partial class formPuestoTrabajo : Form
+    {
+        cn_Ptrabajo cn_ptrabajo = new cn_Ptrabajo();
+        int valor = 0; // nuevo
+        public formPuestoTrabajo()
+        {
+            InitializeComponent();
+        }
+
+        private void dgvPtrabajo_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            dgvPtrabajo.CurrentRow.Selected = true;
+
+            txtid.Text = dgvPtrabajo.CurrentRow.Cells[0].Value.ToString();
+            txtnombre.Text = dgvPtrabajo.CurrentRow.Cells[1].Value.ToString();
+            valor = 1; // editar
+            tbn_delete.Enabled = true;
+        }
+
+        private void Listar()
+        {
+            dgvPtrabajo.DataSource = cn_ptrabajo.REstado_Renovacion();
+            dgvPtrabajo.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+
+            if (dgvPtrabajo.Rows.Count > 0)
+                dgvPtrabajo.Rows[0].Selected = false;
+
+        }
+
+        private void Validar()
+        {
+            if (txtid.TextLength > 0 && txtnombre.TextLength > 0)
+            {
+                btngrabar.Enabled = true;
+            }
+            else
+            {
+                btngrabar.Enabled = false;
+            }
+        }
+
+        private void Limpiar()
+        {
+            txtid.Clear();
+            txtnombre.Clear();
+            txtid.Focus();
+        }
+
+        private void txtid_TextChanged(object sender, EventArgs e)
+        {
+            Validar();
+        }
+
+        private void txtnombre_TextChanged(object sender, EventArgs e)
+        {
+            Validar();
+        }
+
+        private void txtsalario_TextChanged(object sender, EventArgs e)
+        {
+            Validar();
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Confirmar la operación Borrar", "SENATI",
+            MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (dr == DialogResult.Yes)
+            {
+                cn_ptrabajo.DEst_Renovacion(txtid.Text);
+                valor = 0;
+                Listar();
+                Limpiar();
+                tbn_delete.Enabled = false;
+
+            }
+        }
+
+        private void btnGrabar_Click(object sender, EventArgs e)
+        {
+            Estado_Renovacion er = new Estado_Renovacion();
+            er.id_estado = int.Parse(txt_id.Text);
+            er.renovacion = txtnombre.Text;
+
+            if (valor == 1)
+            {
+                cn_ptrabajo.UEst_Renovacion(er);
+
+            }
+            else if (valor == 0)
+            {
+                cn_ptrabajo.CEst_Renovacion(er);
+
+            }
+
+            Listar();
+            Limpiar();
+            tbn_delete.Enabled = false;
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            valor = 0;
+            Limpiar();
+
+            tbn_delete.Enabled = false;
+        }
+    }
+}
